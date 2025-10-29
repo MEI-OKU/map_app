@@ -1,7 +1,7 @@
 # 🌦 地域×情報マップ（Urahoro × Kamoenai）
 
 
-![App Screenshot](./screenshot.png)
+![地域マップアプリのスクリーンショット](https://github.com/MEI-OKU/map_app/blob/main/screenshot.png?raw=true)
 ---
 
 ## 🗾 概要
