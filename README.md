@@ -54,7 +54,6 @@ Google Maps APIとOpenWeatherMap APIを連携し、
 
 ---
 
-## 📁 ファイル構成
 map_app/
 ├── index.html
 ├── style.css
@@ -62,9 +61,6 @@ map_app/
 ├── data.json
 ├── urahoro.jpg
 └── kamoenai.jpg
-
-yaml
-コードをコピーする
 
 ---
 
