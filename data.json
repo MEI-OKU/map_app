@@ -4,15 +4,15 @@
     "lat": 42.814,
     "lng": 143.660,
     "img": "urahoro.jpg",
-    "desc": "北海道十勝地方にある自然豊かなまち。移住支援制度あり。",
+    "desc": "移住支援制度あり。十勝エリアの中心で、自然と生活の調和が魅力。",
     "url": "https://urahorokanko.jp/"
   },
   {
     "name": "神恵内村",
-    "lat": 43.270,
-    "lng": 140.430,
+    "lat": 43.250,
+    "lng": 140.333,
     "img": "kamoenai.jpg",
-    "desc": "積丹半島の西側に位置する小さな漁村。美しい海と温かい人々のまち。",
+    "desc": "日本海に面した小さな村。漁業と新しい挑戦が交わるまち。",
     "url": "https://www.vill.kamoenai.hokkaido.jp/"
   }
 ]
