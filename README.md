@@ -1,6 +1,6 @@
 # 🌦 地域×情報マップ（Urahoro × Kamoenai）
 
-![App Screenshot](./screenShot.png)
+![App Screenshot](./screenshot.png)
 
 ---
 
