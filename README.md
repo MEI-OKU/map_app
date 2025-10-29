@@ -1,7 +1,7 @@
 # 🌦 地域×情報マップ（Urahoro × Kamoenai）
 
-![App Screenshot](./screenshot.png)
 
+![App Screenshot](./screenshot.png)
 ---
 
 ## 🗾 概要
