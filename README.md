@@ -1,7 +1,7 @@
 # 🌦 地域×情報マップ（Urahoro × Kamoenai）
 
 
-!アプリのスクリーンショット](https://github.com/MEI-OKU/map_app/blob/main/screenshot.png?raw=true&v=2)
+![アプリのスクリーンショット](https://github.com/MEI-OKU/map_app/blob/main/screenshot.png?raw=true&v=3)
 
 地域の情報を地図と天気で見やすくまとめたWebアプリです。
 ---
