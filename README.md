@@ -53,7 +53,7 @@ Google Maps APIとOpenWeatherMap APIを連携し、
 👉 [https://mei-oku.github.io/map_app/](https://mei-oku.github.io/map_app/)
 
 ---
-
+``````
 map_app/
 ├── index.html
 ├── style.css
@@ -61,7 +61,7 @@ map_app/
 ├── data.json
 ├── urahoro.jpg
 └── kamoenai.jpg
-
+``````
 ---
 
 ## 🧠 学んだこと
