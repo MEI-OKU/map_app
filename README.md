@@ -1,7 +1,7 @@
 # 🌦 地域×情報マップ（Urahoro × Kamoenai）
 
 
-![App Screenshot](https://github.com/MEI-OKU/map_app/blob/main/screenshot.png?raw=true)
+!アプリのスクリーンショット](https://github.com/MEI-OKU/map_app/blob/main/screenshot.png?raw=true&v=2)
 
 地域の情報を地図と天気で見やすくまとめたWebアプリです。
 ---
@@ -54,7 +54,6 @@ Google Maps APIとOpenWeatherMap APIを連携し、
 
 ---
 
-## 📁 ファイル構成
 map_app/
 ├── index.html
 ├── style.css
@@ -62,9 +61,6 @@ map_app/
 ├── data.json
 ├── urahoro.jpg
 └── kamoenai.jpg
-
-yaml
-コードをコピーする
 
 ---
 
