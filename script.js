@@ -1,6 +1,6 @@
 let map;
 
-// OpenWeatherMap APIキー（自分のキーに置き換えてね！）
+// OpenWeatherMap APIキー
 const WEATHER_API_KEY = "9288bc648348013f1b01dc60ce985a26";
 
 async function initMap() {
