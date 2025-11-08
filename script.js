@@ -1,7 +1,7 @@
 let map;
 
 // OpenWeatherMap APIキー
-const WEATHER_API_KEY = "9288bc648348013f1b01dc60ce985a26";
+const WEATHER_API_KEY = "KEY";
 
 async function initMap() {
   // 地図の初期化（札幌中心）
